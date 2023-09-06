@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev:demo-admin-elementplus": "pnpm run -C packages/demo-admin-elementplus dev"
+    "dev:demo-admin-elementplus": "pnpm run -C packages/demo-admin-elementplus dev",
+    "dev:demo-admin-elementplus-doc": "pnpm run -C packages/demo-admin-elementplus-doc dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "vitepress": "1.0.0-rc.10"
   }
 }
