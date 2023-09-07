@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.772c9e38.js";const m=JSON.parse('{"title":"项目搭建","description":"","frontmatter":{},"headers":[],"relativePath":"项目搭建.md","filePath":"项目搭建.md"}'),p={name:"项目搭建.md"},e=l("",22),o=[e];function t(c,r,i,y,E,d){return n(),a("div",null,o)}const g=s(p,[["render",t]]);export{m as __pageData,g as default};
